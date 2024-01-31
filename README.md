@@ -1,7 +1,7 @@
 # Images taken from
-[freepik](https://www.freepik.com/) , [icons8](https://icons8.com/) , [seeklogo](https://seeklogo.com/)
+[freepik](https://www.freepik.com/) , [icons8](https://icons8.com/) , [seeklogo](https://seeklogo.com/) .
 
-#Icons from
+# Icons from
 
 favicon generated from [favicon](https://www.favicon.cc/).
 
