@@ -2,6 +2,7 @@
 
 developer image by [freepik](https://www.freepik.com/free-ai-image/person-playing-3d-video-games-device_94950229.htm#query=developer&position=5&from_view=search&track=sph&uuid=500f8873-f579-4cd6-876e-cbf80d6fb7b7).
 
+email message image by [freepik](https://www.freepik.com/free-vector/new-message-concept-illustration_6183493.htm#query=message&position=32&from_view=search&track=sph&uuid=523aa154-ff5b-4d2c-afd1-87dede75463f).
 
 # Icons from
 
