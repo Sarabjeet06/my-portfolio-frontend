@@ -1,3 +1,10 @@
+# Images taken from
+[freepik](https://www.freepik.com/) , [icons8](https://icons8.com/) , [seeklogo](https://seeklogo.com/)
+
+#Icons from
+
+favicon generated from [favicon](https://www.favicon.cc/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
