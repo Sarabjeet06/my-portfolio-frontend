@@ -1,5 +1,6 @@
 import React from 'react'
 import project1 from '../assets/images/To_do_list_photo.png'
+import project2 from '../assets/images/weather_info.png'
 
 const Projects = () => {
     return (
@@ -45,7 +46,7 @@ const Projects = () => {
                         <button><a href='https://github.com/Sarabjeet06/weather_info_project' target='_blank' rel="noopener noreferrer">Github Link</a></button>
                         </div>
                     </div>
-                    <img src={project1} alt='to_do_project' />
+                    <img src={project2} alt='to_do_project' />
                 </div>
             </div>
         </div>

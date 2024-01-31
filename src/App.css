@@ -474,11 +474,12 @@ span a:hover{
 .project-details{
   background-color: #d5e8e8;
   color: #10171e;
-  padding: 10px;
-  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  box-shadow: 0 4px 5px 5px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   margin: 10px 0 10px 0;
   text-align: justify;
+  line-height: 1.5;
 }
 
 .github-link{
@@ -622,11 +623,10 @@ span a:hover{
     display: flex;
     height: 100vh;
     flex-direction: column;
-    justify-content: space-around;
   }
 
-  .side-menu-links{
-    margin-left: 20px;
+  .side-menu-links a{
+    margin: 20px;
   }
 
 
