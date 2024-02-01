@@ -23,7 +23,7 @@ const Contact = () => {
 
         try {
             setIsLoaderShown(true);
-            const response = await fetch('https://my-portfolio-backend-five.vercel.app/', {
+            const response = await fetch('https://my-portfolio-backend-five.vercel.app/submit-form', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
