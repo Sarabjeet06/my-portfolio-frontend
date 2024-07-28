@@ -1,6 +1,6 @@
 import React from 'react'
-import project1 from '../assets/images/To_do_list_photo.png'
-import project2 from '../assets/images/weather_info.png'
+import SkillverseProject from '../assets/images/SkillverseProject.png'
+import WorkzenProject from '../assets/images/WorkzenProject.png'
 
 const Projects = () => {
     return (
@@ -9,44 +9,44 @@ const Projects = () => {
                 <div className='sub-heading'>Projects</div>
                 <div className='horizontal-line'></div>
                 <div className='project-section proj-img-left'>
-                    <img src={project1} alt='to_do_project' />
+                    <img src={WorkzenProject} alt='to_do_project' />
                     <div className='project-info'>
-                        <div className='project-name'>To Do List Project</div>
+                        <div className='project-name'>Workzen</div>
                         <div className='project-details'>
-                        I developed a user-friendly to-do list application, emphasizing seamless task management. The project includes robust features for creating and deleting tasks, ensuring a streamlined user experience. By prioritizing an intuitive design, I aimed to enhance personal productivity. This endeavor showcases my proficiency in both front-end and back-end development, providing a practical solution for efficient task organization.
+                            Developed a collaborative work management tool in a team of 4, featuring separate logins for employees and admins. The tool included a dashboard, calendar, and task board, with admin routes for task creation and assignment, enhancing team coordination and productivity. Served as a frontend developer, responsible for designing and implementing user interfaces using Next.js and Tailwind CSS.
                         </div>
                         <div className='Tech-stack'>
-                            <div className='tech'>HTML</div>
-                            <div className='tech'>CSS</div>
-                            <div className='tech'>JavaScript</div>
+                            <div className='tech'>Next Js</div>
+                            <div className='tech'>Taiwind CSS</div>
+                            <div className='tech'>MongoDb</div>
                             <div className='tech'>Node Js</div>
                             <div className='tech'>Express Js</div>
-                            <div className='tech'>MongoDb</div>
+                            <div className='tech'>Firebase</div>
                         </div>
                         <div className='github-link'>
-                        <button><a href='https://github.com/Sarabjeet06/To_Do_List_Project' target='_blank' rel="noopener noreferrer" >Github Link</a></button>
+                            <button><a href='https://work-zen.vercel.app/' target='_blank' rel="noopener noreferrer" >Website Link</a></button>
                         </div>
                     </div>
                 </div>
                 <div className='project-section proj-img-right'>
                     <div className='project-info'>
-                        <div className='project-name'>Weather Information Project</div>
+                        <div className='project-name'>SkillVerse</div>
                         <div className='project-details'>
-                        I developed an intuitive weather app enabling users to input a city name for localized forecasts. The user-friendly search feature accesses a vast global database, and APIs from leading weather providers ensure accurate and up-to-date information, showcasing my expertise in user-centric app design and data integration.
+                            Developed an innovative educational platform in a team of 4 to facilitate mentor-student interactions, peer-to-peer teaching, project collaboration, real-time chats for queries, and access to educational resources. Contributed as a developer, involved in designing and implementing frontend functionalities. Designed and developed the frontend of the resources and home pages, focusing on creating a user-friendly interface and enhancing the overall user experience.
                         </div>
                         <div className='Tech-stack'>
-                            <div className='tech'>HTML</div>
+                            <div className='tech'>React Js</div>
                             <div className='tech'>CSS</div>
-                            <div className='tech'>JavaScript</div>
+                            <div className='tech'>Javascript</div>
                             <div className='tech'>Node Js</div>
                             <div className='tech'>Express Js</div>
-                            <div className='tech'>API</div>
+                            <div className='tech'>Firebase</div>
                         </div>
                         <div className='github-link'>
-                        <button><a href='https://github.com/Sarabjeet06/weather_info_project' target='_blank' rel="noopener noreferrer">Github Link</a></button>
+                            <button><a href='https://skill-verse.vercel.app/' target='_blank' rel="noopener noreferrer">Website Link</a></button>
                         </div>
                     </div>
-                    <img src={project2} alt='to_do_project' />
+                    <img src={SkillverseProject} alt='to_do_project' />
                 </div>
             </div>
         </div>

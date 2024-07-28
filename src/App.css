@@ -449,7 +449,7 @@ span a:hover{
 .project-section img{
   width: 50%;
   border-radius: 10px;
-  object-fit: cover;
+  object-fit: fill;
   height: 100%;
 }
 
@@ -777,4 +777,5 @@ span a:hover{
   .contact-box{
     width: 80%;
   }
+  
 }
