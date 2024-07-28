@@ -13,6 +13,7 @@ import mongodbImage from '../assets/images/MongoDb_image.png';
 import postmanImage from '../assets/images/postman_image.svg';
 import githubImage from '../assets/images/Github_Image.png';
 import vsCodeImage from '../assets/images/vsCode_image.png';
+import TypescriptImage from '../assets/images/Typescript_Image.png'
 
 const Skills = () => {
     return (
@@ -39,6 +40,8 @@ const Skills = () => {
                     <img src={postmanImage} alt='postman logo' />
                     <img src={githubImage} alt='github logo' />
                     <img src={vsCodeImage} alt='vsCode logo' />
+                    <img src={TypescriptImage} alt='Typescript logo' />
+
                 </div>
             </div>
         </div>

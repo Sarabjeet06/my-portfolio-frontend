@@ -35,7 +35,7 @@ const Home = () => {
             <div className='intro-type'>I am a</div>
             <Intro />
           </div>
-          <a href="https://drive.google.com/file/d/1UwvluS7TEaSGrf4RklCtv8w1SVB-GoQA/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1j2Hr7RJumnyyCe7QcMmsbTEyGT5_nfnL/view" target="_blank" rel="noopener noreferrer">
             Check out Resume
           </a>
         </div>
